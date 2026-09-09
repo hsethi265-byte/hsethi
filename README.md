@@ -11,4 +11,4 @@ I turn raw business data into dashboards and insights that support decisions.
 - 🔹 [Retail Sales Dashboard (Excel)](link) — interactive regional performance dashboard
 - 🔹 [HR Attrition Analysis (Excel)](link) — attrition drivers and retention insights
 
-📫 [LinkedIn](www.linkedin.com/in/hanish-sethi-833020430) | 📄 [Resume](link)
+📫 [LinkedIn] www.linkedin.com/in/hanish-sethi-833020430 | 📄 [Resume](link)
